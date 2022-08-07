@@ -1,0 +1,30 @@
+.sub-header-container {
+    position: fixed;
+    top: 0;
+}
+
+.sidebar-wrapper {
+    top: 55px;
+}
+
+#content {
+    margin-top: 55px;
+}
+
+.widget-statistic .widget-heading{
+    padding: 25px 50px 0 50px!important;
+}
+
+.widget-statistic .widget-content {
+    padding: 15px 50px 35px 50px!important;
+}
+
+.widget-statistic .widget-followers .w-btn a.btn{
+    background-color: #4361ee;
+    color: #fff;
+}
+
+.widget-statistic .widget-engagement .w-btn a.btn{
+    background-color: #009688;
+    color: #fff;
+}
